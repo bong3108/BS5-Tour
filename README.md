@@ -12,4 +12,4 @@
 - 깃으로 관리 🎈
 - 깃허브 페이지 사용해서 배포(Deploy)함
 
-  [배포](https://github.com/bong3108/BS5-Portfolio)
+  [배포](https://github.com/bong3108?tab=repositories)
